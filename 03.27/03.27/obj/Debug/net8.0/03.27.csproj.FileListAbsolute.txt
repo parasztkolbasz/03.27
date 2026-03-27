@@ -1,0 +1,14 @@
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\bin\Debug\net8.0\03.27.exe
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\bin\Debug\net8.0\03.27.deps.json
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\bin\Debug\net8.0\03.27.runtimeconfig.json
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\bin\Debug\net8.0\03.27.dll
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\bin\Debug\net8.0\03.27.pdb
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.AssemblyInfoInputs.cache
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.AssemblyInfo.cs
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.csproj.CoreCompileInputs.cache
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.dll
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\refint\03.27.dll
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.pdb
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\03.27.genruntimeconfig.cache
+C:\Users\greguss.illes\Desktop\Új mappa\03.27\03.27\obj\Debug\net8.0\ref\03.27.dll
